@@ -1,0 +1,55 @@
+body {
+    background-color: black
+}
+
+
+
+.jon {
+    margin-left: 100px;
+    margin-top: 200px; 
+    
+}
+
+#navi ul{
+    margin-bottom: 200px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Asap|EB+Garamond');
+
+
+b1 {
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    color: white;
+    padding-left: 350px;
+}
+
+.projects {
+    color: white;
+    font-family: 'EB Garamond', serif;
+}
+
+.personalwork {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    padding-left: 350px;
+    padding-top: 33px;
+    
+}
+
+.aboutme {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    padding-left: 350px;
+    padding-top: 33px;
+}
+
+.doodoo {
+    color: white;
+    font-family: 'EB Garamond', serif;
+    font-size: 32px;
+    padding-left: 350px;
+    padding-top: 33px;
+}
