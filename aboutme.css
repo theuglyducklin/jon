@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+.liang {
+   float: left;
+    margin-left: 25px
+    
+}
+
+    
+.pic {
+    margin-left: 350px;
+    margin-bottom: 50px;
+    margin-top: 100px;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Asap|EB+Garamond');
+
+.name {
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+    color: white;
+    padding-right: 700px;
+    padding-top: 1px;
+    float: right
+}
+
+
+.education {
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+    color: white;
+    padding-right: 343px;
+    padding-top: 33px;
+    float: right
+}
+
+.hobbies {
+    font-family: 'EB Garamond', serif;
+    font-size: 23px;
+    color: white;
+   padding-right: 417px;
+    padding-top: 33px;
+    float: right
+    
+}
+
+.note {
+    font-family: 'EB Garamond', serif;
+    font-size: 18px;
+    color: white;
+   padding-right: 570px;
+    padding-top: 33px;
+    float: right
+}
+
+p {
+   font-family: 'EB Garamond', serif;
+    font-size: 21px;
+    color: white;
+    margin-left: 350px;
+    margin-right: 75px;
+    float: none
+    
+}
