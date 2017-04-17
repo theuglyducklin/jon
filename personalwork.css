@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.liang {
+    float:left;
+    margin-left: 25px;
+}
+
+.smaug {
+    
+}
+
+
+@import url('https://fonts.googleapis.com/css?family=Asap|EB+Garamond');
+
+.evan {
+    font-family: 'EB Garamond', serif;
+    color:white;
+    font-size: 23px;
+    float: right;
+    margin-right: 50px;
+}
+    
+
+     
